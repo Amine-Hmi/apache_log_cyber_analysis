@@ -43,3 +43,7 @@ Ce projet vise à analyser des fichiers de logs Apache à l'aide de **PySpark** 
    ```bash
    git clone https://github.com/votre-utilisateur/apache-log-cyber-analysis.git
    cd apache-log-cyber-analysis
+
+ ou Essayer le sur Kaggle:
+   [kaggle notebook](https://www.kaggle.com/code/aminehammami/ananlyse-log-serveur-mapreduce)
+
